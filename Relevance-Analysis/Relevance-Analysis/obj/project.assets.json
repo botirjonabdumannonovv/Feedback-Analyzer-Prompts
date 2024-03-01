@@ -1069,11 +1069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AI\\src\\Relevance-Analysis\\Relevance-Analysis\\Relevance-Analysis.csproj",
+      "projectUniqueName": "D:\\AI\\Feedback Analysis\\Relevance-Analysis\\Relevance-Analysis\\Relevance-Analysis.csproj",
       "projectName": "Relevance-Analysis",
-      "projectPath": "D:\\AI\\src\\Relevance-Analysis\\Relevance-Analysis\\Relevance-Analysis.csproj",
+      "projectPath": "D:\\AI\\Feedback Analysis\\Relevance-Analysis\\Relevance-Analysis\\Relevance-Analysis.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\AI\\src\\Relevance-Analysis\\Relevance-Analysis\\obj\\",
+      "outputPath": "D:\\AI\\Feedback Analysis\\Relevance-Analysis\\Relevance-Analysis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1096,6 +1096,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

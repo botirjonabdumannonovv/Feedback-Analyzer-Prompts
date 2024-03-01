@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.SemanticKernel;
+﻿using Microsoft.SemanticKernel;
 
 class Program
 {
