@@ -11,7 +11,7 @@ var configuration = configurationBuilder.Build();
 var kernelBuilder = Kernel.CreateBuilder(); // Ensure 'Kernel' is the correct class and namespace
 
 // Add OpenAI connector
-kernelBuilder.AddOpenAIChatCompletion(modelId: "gpt-3.5-turbo", apiKey: configuration["OpenAiApiSettings:ApiKey"]);
+kernelBuilder.AddOpenAIChatCompletion(modelId: "gpt-3.5-turbo", apiKey: configuration["OpenAiApiSettings:ApiKey"]!);
 
 // Build kernel
 var kernel = kernelBuilder.Build();
