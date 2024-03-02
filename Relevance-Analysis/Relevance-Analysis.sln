@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feedback-Extraction", "Feed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opinion-Mining", "Opinion-Mining\Opinion-Mining.csproj", "{6F027271-AE4B-430A-A0F7-48BF26B9EBC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opinion-Points", "Opinion-Points\Opinion-Points.csproj", "{C4B7D5BE-1827-46AD-BDBB-6C9647D1F44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6F027271-AE4B-430A-A0F7-48BF26B9EBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F027271-AE4B-430A-A0F7-48BF26B9EBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F027271-AE4B-430A-A0F7-48BF26B9EBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B7D5BE-1827-46AD-BDBB-6C9647D1F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B7D5BE-1827-46AD-BDBB-6C9647D1F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B7D5BE-1827-46AD-BDBB-6C9647D1F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B7D5BE-1827-46AD-BDBB-6C9647D1F44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
