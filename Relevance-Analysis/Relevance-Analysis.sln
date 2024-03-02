@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relevance-Analysis", "Relevance-Analysis\Relevance-Analysis.csproj", "{D78B14A4-9368-4822-9FC2-6D20DDBCD66D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feedback-Extraction", "Feedback-Extraction\Feedback-Extraction.csproj", "{187D8931-1BC5-4B5A-A468-B7EEE6C5B6F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D78B14A4-9368-4822-9FC2-6D20DDBCD66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78B14A4-9368-4822-9FC2-6D20DDBCD66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78B14A4-9368-4822-9FC2-6D20DDBCD66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187D8931-1BC5-4B5A-A468-B7EEE6C5B6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187D8931-1BC5-4B5A-A468-B7EEE6C5B6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187D8931-1BC5-4B5A-A468-B7EEE6C5B6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187D8931-1BC5-4B5A-A468-B7EEE6C5B6F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
