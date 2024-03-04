@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opinion-Points", "Opinion-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Categorize-Opinions", "Categorize-Opinions\Categorize-Opinions.csproj", "{5C7E57A1-4B02-4828-AA25-6F7EB56EC2A2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feedbacks", "Feedbacks", "{04632B47-0FA7-4022-BC1B-B72D00717CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feedbacks", "Feedbacks\Feedbacks.csproj", "{1062EF6B-81D7-44E7-9F5E-A38CF288D735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,12 @@ Global
 		{5C7E57A1-4B02-4828-AA25-6F7EB56EC2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7E57A1-4B02-4828-AA25-6F7EB56EC2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7E57A1-4B02-4828-AA25-6F7EB56EC2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1062EF6B-81D7-44E7-9F5E-A38CF288D735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1062EF6B-81D7-44E7-9F5E-A38CF288D735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1062EF6B-81D7-44E7-9F5E-A38CF288D735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1062EF6B-81D7-44E7-9F5E-A38CF288D735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1062EF6B-81D7-44E7-9F5E-A38CF288D735} = {04632B47-0FA7-4022-BC1B-B72D00717CD0}
 	EndGlobalSection
 EndGlobal
